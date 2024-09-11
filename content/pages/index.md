@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 700
           textAlign: left
-          textDecoration: line-through
+          textDecoration: underline line-through
     subtitle: Technical office engineer
     text: >+
       ##### As a recent civil engineering graduate with a very good with honors
