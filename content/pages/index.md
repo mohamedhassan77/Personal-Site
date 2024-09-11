@@ -47,7 +47,7 @@ sections:
         alignItems: flex-start
         flexDirection: row
         padding:
-          - pt-1
+          - pt-16
           - pl-1
           - pb-16
           - pr-16
