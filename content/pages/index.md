@@ -49,6 +49,8 @@ sections:
           - pl-7
           - pb-16
           - pr-0
+        margin:
+          - ml-9
       text:
         textAlign: left
   - type: FeaturedItemsSection
