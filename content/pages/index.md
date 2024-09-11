@@ -199,7 +199,7 @@ sections:
           - pb-3
           - pr-0
         margin:
-          - mt-2
+          - mt-0
           - ml-0
           - mb-2
           - mr-0
