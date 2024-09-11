@@ -30,6 +30,10 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-3
     badge:
       label: ds
       color: text-primary
