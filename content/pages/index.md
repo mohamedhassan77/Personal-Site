@@ -184,7 +184,7 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
-      - url: /images/OIP (1).jpeg
+      - url: /images/OIP (3).jpeg
         altText: Rangle logo
         type: ImageBlock
         elementId: ''
