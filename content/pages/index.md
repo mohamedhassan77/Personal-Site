@@ -31,6 +31,7 @@ sections:
             - pr-3
           margin:
             - ml-28
+      url: /images/3672.webp
     badge:
       label: Technical office engineer
       color: text-primary
