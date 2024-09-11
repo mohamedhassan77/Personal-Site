@@ -185,9 +185,6 @@ sections:
       - url: /images/C-Sharp-Tutorials.webp
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/C-Sharp-Tutorials.webp
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/OIP (1).jpeg
         altText: Rangle logo
         type: ImageBlock
