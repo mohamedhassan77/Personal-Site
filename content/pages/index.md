@@ -12,6 +12,7 @@ sections:
           fontWeight: 500
           textAlign: left
           textDecoration: line-through
+          fontStyle: italic
     subtitle: Technical office engineer
     text: >+
       ##### As a recent civil engineering graduate with a very good with honors
