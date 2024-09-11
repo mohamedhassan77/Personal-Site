@@ -170,6 +170,13 @@ sections:
         textAlign: center
   - subtitle: Technical skills
     images:
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/1782297aa06528e8529c66c22ae88d34.jpg
         altText: Empathy logo
         type: ImageBlock
