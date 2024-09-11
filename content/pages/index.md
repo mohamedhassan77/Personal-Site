@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-          textAlign: left
+          textAlign: justify
     subtitle: Technical office engineer
     text: >+
       ##### As a recent civil engineering graduate with a very good with honors
