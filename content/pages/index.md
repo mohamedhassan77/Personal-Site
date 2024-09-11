@@ -179,7 +179,7 @@ sections:
       - url: /images/OIP (4).jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/OIP (5).jpeg
         altText: Telus logo
         type: ImageBlock
       - altText: Contentful logo
