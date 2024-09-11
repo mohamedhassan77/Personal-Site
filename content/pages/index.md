@@ -173,6 +173,10 @@ sections:
       - url: /images/OIP (6).jpeg
         altText: Empathy logo
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-1
       - url: /images/download.jpeg
         altText: Wellster logo
         type: ImageBlock
