@@ -51,6 +51,7 @@ sections:
           - pr-0
         margin:
           - ml-9
+        justifyContent: flex-start
       text:
         textAlign: left
   - type: FeaturedItemsSection
