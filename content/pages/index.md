@@ -52,7 +52,10 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - ml-1
+          - ml-16
+          - mt-16
+          - mb-16
+          - mr-16
         justifyContent: flex-start
       text:
         textAlign: left
