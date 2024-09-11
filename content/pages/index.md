@@ -170,7 +170,7 @@ sections:
         textAlign: center
   - subtitle: Technical skills
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/OIP (6).jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/download.jpeg
