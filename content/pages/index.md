@@ -38,7 +38,7 @@ sections:
           margin:
             - ml-28
     badge:
-      label: ds
+      label: Technical office engineer
       color: text-primary
       type: Badge
     elementId: ''
