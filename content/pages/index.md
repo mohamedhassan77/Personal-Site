@@ -201,7 +201,7 @@ sections:
         margin:
           - mt-0
           - ml-0
-          - mb-2
+          - mb-1
           - mr-0
       subtitle:
         textAlign: center
