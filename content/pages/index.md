@@ -12,7 +12,7 @@ sections:
           fontWeight: 700
     subtitle: Technical office engineer
     text: >+
-      ## As a recent civil engineering graduate with a very good with honors
+      ##### As a recent civil engineering graduate with a very good with honors
       academic record, I offer expertise in Autodesk Revit, CAD, ASD, Navis
       Works, and Primavera P6, with a convincing background in design, and
       structural analysis. With over a year of experience as a Site Engineer, I
