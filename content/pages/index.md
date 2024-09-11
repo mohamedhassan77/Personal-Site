@@ -19,16 +19,7 @@ sections:
       have gained valuable skills in surveying, excavation, site utilities,
       concrete work, and project management skills.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       altText: ' engineer'
       elementId: ''
