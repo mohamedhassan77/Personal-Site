@@ -51,6 +51,16 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "altText": "LinkedIn",
+                    "url": "/https://www.linkedin.com/in/mohamed-hassan-77112813b/",
+                    "showIcon": true,
+                    "icon": "linkedin",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
