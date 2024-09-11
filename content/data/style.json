@@ -18,7 +18,7 @@
         "size": "5xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "capitalize",
         "letterSpacing": "tighter",
         "type": "ThemeStyleHeading"
     },
