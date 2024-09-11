@@ -34,6 +34,8 @@ sections:
         self:
           padding:
             - pl-3
+          margin:
+            - ml-5
     badge:
       label: ds
       color: text-primary
