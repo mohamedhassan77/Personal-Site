@@ -171,7 +171,7 @@ sections:
   - subtitle: Technical skills
     images:
       - type: ImageBlock
-        url: /images/C-Sharp-Tutorials.webp
+        url: /images/OIP (7).jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
