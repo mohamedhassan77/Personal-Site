@@ -54,7 +54,7 @@
                     "label": "LinkedIn"
                 },
                 {
-                    "label": "",
+                    "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -62,7 +62,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
