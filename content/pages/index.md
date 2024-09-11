@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
           textAlign: justify
     subtitle: Technical office engineer
     text: >+
