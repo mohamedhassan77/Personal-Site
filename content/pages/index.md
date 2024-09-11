@@ -48,7 +48,7 @@ sections:
           - pt-12
           - pl-16
           - pb-16
-          - pr-16
+          - pr-3
       text:
         textAlign: left
   - type: FeaturedItemsSection
