@@ -11,10 +11,14 @@ sections:
         self:
           fontWeight: 700
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      As a recent civil engineering graduate with a very good with honors
+      academic record, I offer expertise in Autodesk Revit, CAD, ASD, Navis
+      Works, and Primavera P6, with a convincing background in design, and
+      structural analysis . With over a year of experience as a Site Engineer, I
+      have gained valuable skills in surveying, excavation, site utilities,
+      concrete work, and project management skills.
+
     actions:
       - label: Get started
         altText: ''
