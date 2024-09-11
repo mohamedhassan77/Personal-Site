@@ -188,6 +188,7 @@ sections:
       - url: /images/OIP (1).jpeg
         altText: Rangle logo
         type: ImageBlock
+        elementId: 'images '
     motion: move-to-left
     colors: bg-neutral-fg-dark
     styles:
