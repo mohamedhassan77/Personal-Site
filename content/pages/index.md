@@ -52,7 +52,7 @@ sections:
           - pb-16
           - pr-2
         margin:
-          - ml-16
+          - ml-4
           - mt-16
           - mb-16
           - mr-16
