@@ -34,6 +34,7 @@ sections:
         self:
           padding:
             - pl-3
+            - pr-3
           margin:
             - ml-28
     badge:
