@@ -44,6 +44,7 @@ sections:
       styles:
         self:
           fontWeight: 700
+          textAlign: left
     elementId: ''
     colors: bg-light-fg-dark
     styles:
