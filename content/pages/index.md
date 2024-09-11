@@ -185,7 +185,7 @@ sections:
       - url: /images/C-Sharp-Tutorials.webp
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/C-Sharp-Tutorials.webp
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
