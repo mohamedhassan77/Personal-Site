@@ -56,7 +56,7 @@ sections:
           - mt-16
           - mb-16
           - mr-16
-        justifyContent: flex-end
+        justifyContent: flex-start
       text:
         textAlign: left
   - type: FeaturedItemsSection
