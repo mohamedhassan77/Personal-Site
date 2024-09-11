@@ -2,63 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Mohamed Hassan Ahmed
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
-    subtitle: Technical office engineer
-    text: >+
-      ##### As a recent civil engineering graduate with a very good with honors
-      academic record, I offer expertise in Autodesk Revit, CAD, ASD, Navis
-      Works, and Primavera P6, with a convincing background in design, and
-      structural analysis. With over a year of experience as a Site Engineer, I
-      have gained valuable skills in surveying, excavation, site utilities,
-      concrete work, and project management skills.
-
-    actions: []
-    media:
-      altText: ' engineer'
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pl-3
-            - pr-3
-          margin:
-            - ml-28
-      url: /images/3672.webp
-    badge:
-      label: Technical office engineer
-      color: text-primary
-      type: Badge
-      styles:
-        self:
-          fontWeight: 500
-          textAlign: left
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-9
-          - pb-16
-          - pr-1
-        margin:
-          - ml-4
-          - mt-16
-          - mb-16
-          - mr-1
-        justifyContent: center
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -176,6 +119,63 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Mohamed Hassan Ahmed
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: Technical office engineer
+    text: >+
+      ##### As a recent civil engineering graduate with a very good with honors
+      academic record, I offer expertise in Autodesk Revit, CAD, ASD, Navis
+      Works, and Primavera P6, with a convincing background in design, and
+      structural analysis. With over a year of experience as a Site Engineer, I
+      have gained valuable skills in surveying, excavation, site utilities,
+      concrete work, and project management skills.
+
+    actions: []
+    media:
+      altText: ' engineer'
+      elementId: ''
+      type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-3
+            - pr-3
+          margin:
+            - ml-28
+      url: /images/3672.webp
+    badge:
+      label: Technical office engineer
+      color: text-primary
+      type: Badge
+      styles:
+        self:
+          fontWeight: 500
+          textAlign: left
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-9
+          - pb-16
+          - pr-1
+        margin:
+          - ml-4
+          - mt-16
+          - mb-16
+          - mr-1
+        justifyContent: center
+      text:
+        textAlign: left
   - subtitle: Technical skills
     images:
       - type: ImageBlock
