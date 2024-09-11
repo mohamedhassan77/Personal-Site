@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: Subtitle goes here
+    subtitle: Technical office engineer
     text: >+
       As a recent civil engineering graduate with a very good with honors
       academic record, I offer expertise in Autodesk Revit, CAD, ASD, Navis
