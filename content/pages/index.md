@@ -210,6 +210,7 @@ sections:
         textAlign: center
         fontWeight: 700
     type: ImageGallerySection
+    elementId: c#
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
