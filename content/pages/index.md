@@ -201,6 +201,11 @@ sections:
           - pl-2
           - pb-2
           - pr-2
+        margin:
+          - mt-2
+          - ml-2
+          - mb-2
+          - mr-2
       subtitle:
         textAlign: center
         fontWeight: 700
