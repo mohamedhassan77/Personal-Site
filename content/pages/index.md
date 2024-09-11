@@ -39,7 +39,7 @@ sections:
             - ml-28
     badge:
       label: Technical office engineer
-      color: text-dark
+      color: text-neutral
       type: Badge
       styles:
         self:
