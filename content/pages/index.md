@@ -48,7 +48,7 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-12
-          - pl-7
+          - pl-12
           - pb-16
           - pr-0
         margin:
