@@ -52,7 +52,7 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - ml-9
+          - ml-1
         justifyContent: flex-start
       text:
         textAlign: left
