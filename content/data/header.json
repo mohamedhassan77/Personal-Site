@@ -4,22 +4,25 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "About me",
+            "url": "/About me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
-            "label": "Blog",
+            "label": "Education",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -37,9 +40,20 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Contacts",
             "altText": "Dropdown",
             "links": [
+                {
+                    "type": "Link",
+                    "altText": "LinkedIn",
+                    "url": "/https://www.linkedin.com/in/mohamed-hassan-77112813b/",
+                    "showIcon": true,
+                    "icon": "linkedin",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": "",
+                    "label": "LinkedIn"
+                },
                 {
                     "label": "Dropdown item",
                     "url": "/",
@@ -49,7 +63,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -70,15 +84,6 @@
         }
     ],
     "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
         {
             "label": "Log in",
             "url": "/",
