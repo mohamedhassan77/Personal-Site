@@ -182,7 +182,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/R.jpeg
+      - url: /images/image.webp
         altText: Contentful logo
         type: ImageBlock
       - url: /images/OIP (1).jpeg
