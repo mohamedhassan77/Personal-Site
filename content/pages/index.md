@@ -50,7 +50,7 @@ sections:
           - pt-16
           - pl-7
           - pb-16
-          - pr-2
+          - pr-0
         margin:
           - ml-4
           - mt-16
