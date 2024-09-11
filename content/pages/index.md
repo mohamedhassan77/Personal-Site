@@ -27,7 +27,7 @@ sections:
         type: Button
     media:
       url: /images/3672.webp
-      altText: Unblock your team boost your time to production preview
+      altText: ' engineer'
       elementId: ''
       type: ImageBlock
       styles:
