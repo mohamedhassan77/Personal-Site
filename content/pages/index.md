@@ -50,7 +50,7 @@ sections:
           - pt-12
           - pl-12
           - pb-16
-          - pr-0
+          - pr-16
         margin:
           - ml-9
         justifyContent: flex-start
