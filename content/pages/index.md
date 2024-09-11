@@ -30,7 +30,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/3672.webp
       altText: ' engineer'
       elementId: ''
       type: ImageBlock
