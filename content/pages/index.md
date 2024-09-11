@@ -55,7 +55,7 @@ sections:
           - ml-4
           - mt-16
           - mb-16
-          - mr-0
+          - mr-1
         justifyContent: flex-start
       text:
         textAlign: left
